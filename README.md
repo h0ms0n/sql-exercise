@@ -11,3 +11,5 @@
   2. apt-get install unzip
   3. unzip world.sql.zip
   4. mysql -uroot -p  < world.sql
+   
+* PCでgitクライアントの設定をする際は[こちら](https://qiita.com/zaki-yama/items/bfb0c2bef516af58c3fa)参照
